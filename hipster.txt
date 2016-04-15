@@ -1,0 +1,4 @@
+New requirement for unrestricted flex discussed - break can be at any time and any length; the effective schedule cannot be determined until the employee punches back in from meal break. Different behavior for breaks that are longer than original meal and for breaks that are shorter than original meal break.
+Restricted flex will have flex window around meal break.
+Mixed flex within a shift does not need to be supported.
+ADP confirms that existing unrestricted solution will not be usable by their clients - it must support the new unrestricted break requirement.
